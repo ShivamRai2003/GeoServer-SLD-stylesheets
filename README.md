@@ -1,3 +1,3 @@
-# GeoServer-SLD-stylesheets
+# GeoServer-SLD-stylesheets (Google Code-in)
 
-## New SLD stylesheets for the example layers in GeoServer
+### New SLD stylesheets for the example layers in GeoServer
