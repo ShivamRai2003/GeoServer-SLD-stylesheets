@@ -9,7 +9,7 @@
     <Name>USA states population</Name>
     <UserStyle>
       <Name>Statewise Population</Name>
-      <Title>A choropleth map is a thematic map where geographic regions are colored, shaded, or patterned in relation to a 		value. A Choropleth Map of Population in the United States</Title>
+      <Title>A choropleth map is a thematic map where geographic regions are colored, shaded, or patterned in relation to a value.A Choropleth Map of Population in the United States</Title>
       <Abstract>A sample filter that filters the United States into three
         categories of population, drawn in different colors</Abstract>
       <FeatureTypeStyle>
