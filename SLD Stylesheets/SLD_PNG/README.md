@@ -1,5 +1,5 @@
 ### Choropleth_Maps : 
-Achoropleth map is a thematic map where geographic regions are colored, shaded, or patterned in relation to a value.
+A choropleth map is a thematic map where geographic regions are colored, shaded, or patterned in relation to a value.
 
 **Aim** : This type of map is particularly useful when visualizing a variable and how it changes across defined regions or geopolitical areas.
 A choropleth map is extremely useful when looking at vote totals by political party per county in the United States. 
