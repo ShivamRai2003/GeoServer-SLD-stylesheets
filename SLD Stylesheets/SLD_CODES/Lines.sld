@@ -6,9 +6,9 @@
 		   xmlns:xlink="http://www.w3.org/1999/xlink" 
 		   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 		  <NamedLayer>
-		   <Name>Polygon with styled label</Name>
+		   <Name>Default_lines</Name>
 		   <UserStyle>
-		    <Title>SLD Cook Book: Polygon with styled label</Title>
+		    <Title>Lines_tiger_roads</Title>
 		    <FeatureTypeStyle>
 		     <Rule>
 		<PolygonSymbolizer>
